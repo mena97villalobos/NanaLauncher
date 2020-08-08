@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Nana Launcher</string>
 
-    <string name="flashlight">Flashlight</string>
+    <string name="flashlight_on">Turn ON Flashlight</string>
+    <string name="flashlight_off">Turn OFF Flashlight</string>
+
+    <string name="whatsapp_video_call">Video Call %1$s!</string>
 </resources>

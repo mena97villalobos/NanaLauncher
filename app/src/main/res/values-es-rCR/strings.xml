@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nana Launcher</string>
+    <string name="flashlight_on">Prender Lintenterna</string>
+    <string name="flashlight_off">Apagar Linterna</string>
+    <string name="whatsapp_video_call">Video Llamada con %1$s</string>
+</resources>
